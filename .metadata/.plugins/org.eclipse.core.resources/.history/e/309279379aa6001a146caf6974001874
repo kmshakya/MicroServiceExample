@@ -1,0 +1,5 @@
+package com.app.mobilews.ui.controller;
+
+public class UserController {
+
+}
